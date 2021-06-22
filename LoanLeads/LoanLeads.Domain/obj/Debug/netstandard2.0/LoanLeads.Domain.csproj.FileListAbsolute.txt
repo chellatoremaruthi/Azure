@@ -1,0 +1,12 @@
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\bin\Debug\netstandard2.0\LoanLeads.Domain.deps.json
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\bin\Debug\netstandard2.0\LoanLeads.Domain.dll
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\bin\Debug\netstandard2.0\LoanLeads.Domain.pdb
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\bin\Debug\netstandard2.0\LoanLeads.Infrastructure.dll
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\bin\Debug\netstandard2.0\LoanLeads.Infrastructure.pdb
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\obj\Debug\netstandard2.0\LoanLeads.Domain.csprojAssemblyReference.cache
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\obj\Debug\netstandard2.0\LoanLeads.Domain.AssemblyInfoInputs.cache
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\obj\Debug\netstandard2.0\LoanLeads.Domain.AssemblyInfo.cs
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\obj\Debug\netstandard2.0\LoanLeads.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\obj\Debug\netstandard2.0\LoanLeads.Domain.csproj.CopyComplete
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\obj\Debug\netstandard2.0\LoanLeads.Domain.dll
+C:\Users\MaruthiPrasannaChell\source\repos\LoanLeads\LoanLeads.Domain\obj\Debug\netstandard2.0\LoanLeads.Domain.pdb
